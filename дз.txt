@@ -1,0 +1,25 @@
+pwd
+mkdir group30
+cd group30
+mkdir my1 my2 my3
+cd my1
+touch text1.txt text2.txt j1.json j2.json j3.json
+mkdir qa1 qa2 qa3
+ls group30
+cat *.txt
+cat >>text1.txt
+написать что-то
+CTRL+C
+cd ..
+mv text1.txt text2.txt /group30/my1
+cp text1.txt text2.txt /my1/qa3
+find / -name "text3.txt"
+grep text3.txt
+cat text3.txt
+tac text3.txt
+less text1.txt
+date
+
+
+
+
