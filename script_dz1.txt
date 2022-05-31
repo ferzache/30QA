@@ -1,0 +1,8 @@
+#!/bin/bash
+cd group30
+mkdir my1 my2 my3
+cd my1
+touch text1.txt text2.txt j1.json j2.json j3.json
+mkdir qa1 qa2 qa3
+ls group30
+mv text1.txt text2.txt /group30/my1
